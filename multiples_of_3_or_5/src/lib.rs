@@ -21,7 +21,7 @@ pub fn sum_mutiples(naturals: Vec<usize>, upper_limit: usize) -> usize {
         for natural in &naturals {
             if iteration % natural == 0 {
                 accumulator += iteration;
-                break;
+                break; // so we don't have duplicates
             }
         }
     }
