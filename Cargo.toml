@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "multiples_of_3_or_5",
+]
