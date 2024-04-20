@@ -2,5 +2,6 @@
 resolver = "2"
 
 members = [
+    "even_fibonacci_numbers",
     "multiples_of_3_or_5",
 ]

@@ -343,6 +343,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "even_fibonacci_numbers"
+version = "0.1.0"
+dependencies = [
+ "cucumber",
+ "tokio",
+]
+
+[[package]]
 name = "futures"
 version = "0.3.30"
 source = "registry+https://github.com/rust-lang/crates.io-index"
