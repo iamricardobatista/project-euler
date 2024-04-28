@@ -3,6 +3,7 @@ resolver = "2"
 
 members = [
     "even_fibonacci_numbers",
+    "largest_palindrome_product",
     "largest_prime_factor",
     "multiples_of_3_or_5",
 ]
