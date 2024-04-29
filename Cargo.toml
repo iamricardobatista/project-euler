@@ -7,4 +7,5 @@ members = [
     "largest_prime_factor",
     "multiples_of_3_or_5",
     "smallest_multiple",
+    "sum_square_difference",
 ]
